@@ -1,2 +1,6 @@
 # MATH303Exam1
-MATH 303 Exam 1 R Code
+Zachary Inn
+2376935
+MATH 303
+Exam 1
+
